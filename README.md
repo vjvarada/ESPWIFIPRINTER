@@ -176,3 +176,4 @@ The screen when connected to AP:
 -- Do testing (a lot)    
 -- UI Improvement    
 -- Printer EEPROM management
+# ESPWIFIPRINTER
